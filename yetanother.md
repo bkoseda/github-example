@@ -1,2 +1,2 @@
-Just some meningless content.
+Just some meaningless content.
 ============================
